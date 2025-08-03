@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Yerokar</h1>
+<h1 align="center">Hello 👋, I'm Aditya Yerokar</h1>
 <h3 align="center">A passionate Java Developer🚀 | Flutter Enthusiast🌟</h3>
 
 - 🔭 I’m currently working on **Smart Contact Manager Project**
