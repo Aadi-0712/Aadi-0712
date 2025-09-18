@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Aditya Yerokar</h1>
 <h3 align="center">A passionate Java Developer🚀 | Flutter Enthusiast🌟</h3>
 
-- 🔭 I’m currently working on **Smart Contact Manager Project**
+- 🔭 I’m currently working on **LocalLink - Marketplace Application**
 
-- 🌱 I’m currently learning **Springboot Framework**
+- 🌱 I’m currently learning **Spring**
 
 - 📫 How to reach me **yerokaraditya@gmail.com**
 
